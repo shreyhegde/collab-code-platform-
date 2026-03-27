@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
